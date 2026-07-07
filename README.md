@@ -5,21 +5,27 @@ LICHT · WIND**. Die „Astrala-Fragmente" liefern jederzeit passendes Material 
 **Fusion, Synchro und Xyz** – Ziel ist der Stufe-11-Boss **Astrala, die Hüterin des
 Sternenlichts** (4000/4000), der alle vier Attribute im Material vereint.
 
-19 Karten + 1 Spielmarke. Sprache: **Deutsch**.
+19 Karten + 1 Spielmarke. Verfügbar auf **Deutsch und Englisch**.
 
 ---
 
 ## Installation (30 Sekunden)
 
 1. In MD Pro 3: **Settings → Expansions → „Download Custom Card Pack"**
-2. Diesen Link einfügen:
-   ```
-   https://raw.githubusercontent.com/MasterSimon31/Astrala-Card/main/astrala.ypk
-   ```
-3. **Spiel komplett neu starten.**
-4. Im Deck-Editor nach **„Astrala"** suchen.
+2. Link für deine Sprache einfügen / paste the link for your language:
 
-> Zum Online-Spielen brauchen **beide** Spieler das Pack.
+   **Deutsch:**
+   ```
+   https://raw.githubusercontent.com/MasterSimon31/Astrala-Card/main/astrala-de.ypk
+   ```
+   **English:**
+   ```
+   https://raw.githubusercontent.com/MasterSimon31/Astrala-Card/main/astrala-en.ypk
+   ```
+3. **Spiel komplett neu starten / fully restart the game.**
+4. Im Deck-Editor nach **„Astrala"** suchen / search for **"Astrala"**.
+
+> Nur **einen** der beiden Links installieren (gleiche Karten, andere Sprache). Zum Online-Spielen brauchen **beide** Spieler das Pack. / Use only **one** of the two links (same cards, different language). For online play, **both** players need the pack.
 
 ---
 
