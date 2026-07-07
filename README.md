@@ -93,6 +93,30 @@ Attribute für die Hüterin zusammenkommen.
 
 ---
 
+## Custom look (optional) / Eigener Look (optional)
+
+🇬🇧 MD Pro 3 always composes cards from its default frame + artwork. For the boss
+**Astrala, Keeper of the Starlight** there is a small optional extra with its own custom frame:
+
+1. Download **[`astrala-overframe.zip`](astrala-overframe.zip)** and unzip it (1 PNG: `99900043.png`).
+2. Copy the file to `<MD-Pro-3-folder>\Picture\OverFrame\`.
+3. Restart the game – the boss appears in its own custom frame.
+
+*(Purely visual, changes nothing about gameplay. Without the extra the boss shows its artwork
+in the normal frame.)*
+
+🇩🇪 MD Pro 3 baut Karten immer aus seinem Standard-Rahmen + Artwork zusammen. Für den Boss
+**Astrala, die Hüterin des Sternenlichts** gibt es ein kleines optionales Extra mit seinem
+eigenen Rahmen:
+
+1. **[`astrala-overframe.zip`](astrala-overframe.zip)** herunterladen und entpacken (1 PNG: `99900043.png`).
+2. Die Datei nach `<MD-Pro-3-Ordner>\Picture\OverFrame\` kopieren.
+3. Spiel neu starten – der Boss erscheint in seinem eigenen Rahmen.
+
+*(Rein optisch, ändert nichts am Spiel.)*
+
+---
+
 ## More packs / Weitere Packs
 
 Part of my self-made custom-card series for MD Pro 3 / Teil meiner selbstgebauten
