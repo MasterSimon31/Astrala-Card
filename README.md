@@ -1,95 +1,106 @@
-# Astrala – Custom Card Pack für MD Pro 3
+# Astrala – Custom Card Pack for MD Pro 3
 
-Ein selbstgebauter **Feen-Archetyp** rund um die vier Grundelemente **WASSER · FEUER ·
+🇬🇧 A self-made **Fairy archetype** built around the four base elements **WATER · FIRE ·
+LIGHT · WIND**. The „Astrala Fragments" always provide fitting material for **Fusion,
+Synchro and Xyz** – the goal is the Level-11 boss **Astrala, Keeper of the Starlight**
+(4000/4000), who unites all four attributes in its material. 19 cards + 1 Token.
+Available in **English and German**.
+
+🇩🇪 Ein selbstgebauter **Feen-Archetyp** rund um die vier Grundelemente **WASSER · FEUER ·
 LICHT · WIND**. Die „Astrala-Fragmente" liefern jederzeit passendes Material für
 **Fusion, Synchro und Xyz** – Ziel ist der Stufe-11-Boss **Astrala, die Hüterin des
-Sternenlichts** (4000/4000), der alle vier Attribute im Material vereint.
-
-19 Karten + 1 Spielmarke. Verfügbar auf **Deutsch und Englisch**.
+Sternenlichts** (4000/4000), der alle vier Attribute im Material vereint. 19 Karten +
+1 Spielmarke. Verfügbar auf **Deutsch und Englisch**.
 
 ---
 
-## Installation (30 Sekunden)
+## Installation (30 seconds / 30 Sekunden)
 
 1. In MD Pro 3: **Settings → Expansions → „Download Custom Card Pack"**
-2. Link für deine Sprache einfügen / paste the link for your language:
+2. Paste the link for your language / Link für deine Sprache einfügen:
 
-   **Deutsch:**
-   ```
-   https://raw.githubusercontent.com/MasterSimon31/Astrala-Card/main/astrala-de.ypk
-   ```
    **English:**
    ```
    https://raw.githubusercontent.com/MasterSimon31/Astrala-Card/main/astrala-en.ypk
    ```
-3. **Spiel komplett neu starten / fully restart the game.**
-4. Im Deck-Editor nach **„Astrala"** suchen / search for **"Astrala"**.
+   **Deutsch:**
+   ```
+   https://raw.githubusercontent.com/MasterSimon31/Astrala-Card/main/astrala-de.ypk
+   ```
+3. **Fully restart the game / Spiel komplett neu starten.**
+4. In the Deck Editor, search for **"Astrala"** / im Deck-Editor nach **„Astrala"** suchen.
 
-> Nur **einen** der beiden Links installieren (gleiche Karten, andere Sprache). Zum Online-Spielen brauchen **beide** Spieler das Pack. / Use only **one** of the two links (same cards, different language). For online play, **both** players need the pack.
+> 🇬🇧 Use only **one** of the two links (same cards, different language). For online play, **both** players need the pack. / 🇩🇪 Nur **einen** der beiden Links installieren (gleiche Karten, andere Sprache). Zum Online-Spielen brauchen **beide** Spieler das Pack.
 
 ---
 
-## Die Karten
+## The cards / Die Karten
 
-### Main-Deck-Monster (4) · Typ Fee/Effekt
-| Karte | Attribut | Stufe | ATK/DEF |
-|---|---|---|---|
-| Astrala-Fragment – Gezeiten-Hauch | WASSER | 3 | 1200/1000 |
-| Astrala-Fragment – Flammen-Funke | FEUER | 3 | 1400/800 |
-| Astrala-Fragment – Licht-Splitter | LICHT | 4 | 1600/1200 |
-| Astrala-Fragment – Wind-Hauch | WIND | 4 | 1500/1400 |
+### Main-Deck Monsters (4) · Fairy/Effect · Fee/Effekt
+| English | Deutsch | Attr | Lv | ATK/DEF |
+|---|---|---|---|---|
+| Astrala Fragment - Tidebreath | Astrala-Fragment – Gezeiten-Hauch | WATER | 3 | 1200/1000 |
+| Astrala Fragment - Flamespark | Astrala-Fragment – Flammen-Funke | FIRE | 3 | 1400/800 |
+| Astrala Fragment - Lightshard | Astrala-Fragment – Licht-Splitter | LIGHT | 4 | 1600/1200 |
+| Astrala Fragment - Windbreath | Astrala-Fragment – Wind-Hauch | WIND | 4 | 1500/1400 |
 
-### Zauber (6)
-| Karte | Typ |
-|---|---|
-| Astrala-Kern – Die prismatische Energiequelle | Feldzauber |
-| Astrala-Initialisierung | Normal-Zauber |
-| Astrala-Konfiguration | Normal-Zauber |
-| Astrala-Rezyklierungsprotokoll | Schnellzauber |
-| Astrala-Überholen | Normal-Zauber |
-| Ursprung von Astrala | Normal-Zauber |
+### Spells (6) / Zauber (6)
+| English | Deutsch | Type / Typ |
+|---|---|---|
+| Astrala Core - The Prismatic Energy Source | Astrala-Kern – Die prismatische Energiequelle | Field Spell / Feldzauber |
+| Astrala Initialization | Astrala-Initialisierung | Normal Spell / Normal-Zauber |
+| Astrala Configuration | Astrala-Konfiguration | Normal Spell / Normal-Zauber |
+| Astrala Recycling Protocol | Astrala-Rezyklierungsprotokoll | Quick-Play Spell / Schnellzauber |
+| Astrala Overtake | Astrala-Überholen | Normal Spell / Normal-Zauber |
+| Origin of Astrala | Ursprung von Astrala | Normal Spell / Normal-Zauber |
 
-### Fallen (2)
-| Karte | Typ |
-|---|---|
-| Astrala-Sicherheits-Link | Permanente Falle |
-| Astrala-System-Abbruch | Konterfalle |
+### Traps (2) / Fallen (2)
+| English | Deutsch | Type / Typ |
+|---|---|---|
+| Astrala Security Link | Astrala-Sicherheits-Link | Continuous Trap / Permanente Falle |
+| Astrala System Abort | Astrala-System-Abbruch | Counter Trap / Konterfalle |
 
 ### Extra Deck (7)
-| Karte | Typ | Stufe/Rang | Attribut | ATK/DEF |
-|---|---|---|---|---|
-| Astrala-Konstrukt – Prisma-Flamme | Fusion | 6 | FEUER | 2400/2000 |
-| Astrala-Konstrukt – Äther-Sturm | Fusion | 8 | WIND | 2800/2400 |
-| Astrala-Anker – Gezeiten-Wächter | Xyz | Rang 3 | WASSER | 2000/1500 |
-| Astrala-Bollwerk – Himmels-Festung | Xyz | Rang 4 | LICHT | 2200/2000 |
-| Astrala-Impuls – Echo der Stille | Synchro | 7 | WASSER | 2500/2000 |
-| Astrala-Resonanz – Himmlischer Rückruf | Synchro | 8 | WIND | 2800/2200 |
-| **Astrala, die Hüterin des Sternenlichts** | **Fusion** | **11** | **LICHT** | **4000/4000** |
+| English | Deutsch | Type / Typ | Lv/Rank | Attr | ATK/DEF |
+|---|---|---|---|---|---|
+| Astrala Construct - Prisma Flame | Astrala-Konstrukt – Prisma-Flamme | Fusion | 6 | FIRE | 2400/2000 |
+| Astrala Construct - Aether Storm | Astrala-Konstrukt – Äther-Sturm | Fusion | 8 | WIND | 2800/2400 |
+| Astrala Anchor - Tide Warden | Astrala-Anker – Gezeiten-Wächter | Xyz | Rank 3 | WATER | 2000/1500 |
+| Astrala Bulwark - Sky Fortress | Astrala-Bollwerk – Himmels-Festung | Xyz | Rank 4 | LIGHT | 2200/2000 |
+| Astrala Impulse - Echo of Silence | Astrala-Impuls – Echo der Stille | Synchro | 7 | WATER | 2500/2000 |
+| Astrala Resonance - Celestial Recall | Astrala-Resonanz – Himmlischer Rückruf | Synchro | 8 | WIND | 2800/2200 |
+| **Astrala, Keeper of the Starlight** | **Astrala, die Hüterin des Sternenlichts** | **Fusion** | **11** | **LIGHT** | **4000/4000** |
 
-**Kernidee:** Die vier Fragmente sind flexibles Material für jedes Extra-Monster; die
+🇬🇧 **Core idea:** the four Fragments are flexible material for every Extra-Deck monster;
+the Extra monsters switch attributes and print Fragments as material, until all four
+attributes come together for the Keeper.
+
+🇩🇪 **Kernidee:** Die vier Fragmente sind flexibles Material für jedes Extra-Monster; die
 Extra-Monster wechseln Attribute und drucken Fragmente als Material auf, bis alle vier
 Attribute für die Hüterin zusammenkommen.
 
 ---
 
-## Empfohlene Bannliste (pro Client selbst eintragen)
+## Recommended banlist / Empfohlene Bannliste
 
-Banlist-Limits sind pro Client – wer mit diesen Werten spielen will, trägt sie selbst ein:
+🇬🇧 Banlist limits are per client – add these yourself if you want to play with them. /
+🇩🇪 Banlist-Limits sind pro Client – wer mit diesen Werten spielen will, trägt sie selbst ein:
 
-- **Astrala-Kern** (Feldzauber) = **Limit 1**
-- **Astrala-Sicherheits-Link** (Falle) = **Limit 1**
-- **Astrala-Überholen** (Zauber) = **Limit 2**
-- **Astrala-System-Abbruch** (Konterfalle) = **Semi-Limit 2**
-
----
-
-## Weitere Packs
-
-Teil meiner selbstgebauten Custom-Card-Reihe für MD Pro 3:
-- 🌑 **[Void](https://github.com/MasterSimon31/Void-Card)** – verdecktes Verbannen (DARK)
-- 🧊 **[Eisberg](https://github.com/MasterSimon31/Eisberg-Card)** – WASSER-„Tiefenbeschwörung"
-- ✨ **Astrala** (dieses Pack) – 4-Element-Feen, Material-Flexibilität
+- **Astrala Core / Astrala-Kern** (Field Spell / Feldzauber) = **Limit 1**
+- **Astrala Security Link / Astrala-Sicherheits-Link** (Trap / Falle) = **Limit 1**
+- **Astrala Overtake / Astrala-Überholen** (Spell / Zauber) = **Limit 2**
+- **Astrala System Abort / Astrala-System-Abbruch** (Counter Trap / Konterfalle) = **Semi-Limit 2**
 
 ---
 
-Viel Spaß! Feedback willkommen.
+## More packs / Weitere Packs
+
+Part of my self-made custom-card series for MD Pro 3 / Teil meiner selbstgebauten
+Custom-Card-Reihe für MD Pro 3:
+- 🌑 **[Void](https://github.com/MasterSimon31/Void-Card)** – face-down banishing (DARK) / verdecktes Verbannen (DARK)
+- 🧊 **[Eisberg](https://github.com/MasterSimon31/Eisberg-Card)** – WATER „Deep Summon" / WASSER-„Tiefenbeschwörung"
+- ✨ **Astrala** (this pack / dieses Pack) – four-element Fairies / 4-Element-Feen, material flexibility
+
+---
+
+Have fun! Feedback welcome. / Viel Spaß! Feedback willkommen.
