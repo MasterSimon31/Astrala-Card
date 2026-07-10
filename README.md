@@ -117,6 +117,48 @@ eigenen Rahmen:
 
 ---
 
+## Pop-out figures (optional) / Pop-out-Figuren (optional)
+
+🇬🇧 MD Pro 3 has a built-in **"Closeup"** button in a duel that pops a cut-out figure of a
+monster out above its card. All **12 Astrala monsters** have their own pop-out figure:
+
+1. Download **[`astrala-closeups.zip`](astrala-closeups.zip)** and unzip it (12 PNGs).
+2. Copy the files to `<MD-Pro-3-folder>\Picture\Closeup\`.
+3. Restart the game – press the **Closeup** button in a duel to see the figures.
+
+*(Purely visual, changes nothing about gameplay.)*
+
+🇩🇪 MD Pro 3 hat im Duell einen eingebauten **„Closeup"**-Knopf, der eine freigestellte
+Monster-Figur über der Karte „herausploppen" lässt. Alle **12 Astrala-Monster** haben so eine Figur:
+
+1. **[`astrala-closeups.zip`](astrala-closeups.zip)** herunterladen und entpacken (12 PNGs).
+2. Die Dateien nach `<MD-Pro-3-Ordner>\Picture\Closeup\` kopieren.
+3. Spiel neu starten – im Duell den **Closeup**-Knopf drücken.
+
+*(Rein optisch, ändert nichts am Spiel.)*
+
+---
+
+## Animated artwork (optional) / Animiertes Artwork (optional)
+
+🇬🇧 One card has **moving (video) artwork**: **Astrala Construct - Prisma Flame** (99900037).
+
+1. Download **[`astrala-animation.zip`](astrala-animation.zip)** and unzip it (1 file: `99900037.mp4`).
+2. Copy the file to `<MD-Pro-3-folder>\Video\Art\`.
+3. Restart the game – this card now shows animated artwork.
+
+*(Purely visual. So far only this one card is animated.)*
+
+🇩🇪 Eine Karte hat **bewegtes (Video-)Artwork**: **Astrala-Konstrukt – Prisma-Flamme** (99900037).
+
+1. **[`astrala-animation.zip`](astrala-animation.zip)** herunterladen und entpacken (1 Datei: `99900037.mp4`).
+2. Die Datei nach `<MD-Pro-3-Ordner>\Video\Art\` kopieren.
+3. Spiel neu starten – die Karte zeigt jetzt animiertes Artwork.
+
+*(Rein optisch. Bisher ist nur diese eine Karte animiert.)*
+
+---
+
 ## More packs / Weitere Packs
 
 Part of my self-made custom-card series for MD Pro 3 / Teil meiner selbstgebauten
