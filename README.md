@@ -166,6 +166,7 @@ Custom-Card-Reihe für MD Pro 3:
 - 🌑 **[Void](https://github.com/MasterSimon31/Void-Card)** – face-down banishing (DARK) / verdecktes Verbannen (DARK)
 - 🧊 **[Eisberg](https://github.com/MasterSimon31/Eisberg-Card)** – WATER „Deep Summon" / WASSER-„Tiefenbeschwörung"
 - ✨ **Astrala** (this pack / dieses Pack) – four-element Fairies / 4-Element-Feen, material flexibility
+- ♾️ **[Aion](https://github.com/MasterSimon31/Aion-Card)** – eternal god / ewiger Gott, deliberately overwhelming
 
 ---
 
